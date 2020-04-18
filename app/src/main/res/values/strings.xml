@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Notepad Kotlin</string>
+    <string name="edit_title">Edit Notepad</string>
+    <string name="my_notepad">My Personal Notepad</string>
+    <string name="last_updated">Last updated: %s</string>
+    <string name="error_note_null">Note must not be null</string>
+    <string name="error_title_empty">Title must not be empty</string>
+</resources>
